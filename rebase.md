@@ -3,3 +3,5 @@
 - rebase 테스트3
 - rebase 테스트4
 - rebase 테스트5
+- rebase 테스트6
+- rebase 테스트7
